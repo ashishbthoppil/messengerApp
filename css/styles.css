@@ -1,0 +1,20 @@
+.mainHeader{
+	height: 40px;
+	/*padding: 10px;*/
+	background-color: floralwhite;
+	color: blue;
+	margin-top: 0px;
+}
+
+.main{
+	height: 100vh;
+	text-align: center;
+	padding: 20em;
+}
+
+.chatBtn{
+	background-color : blue;
+	color: azure;
+	height: 40px;
+	border-radius: 15px;
+}
